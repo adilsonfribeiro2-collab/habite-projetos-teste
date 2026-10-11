@@ -1,0 +1,278 @@
+{
+  "empreendimento": "empreendimento-1",
+  "disciplina": "arquitetura",
+  "formato": "pdf",
+  "conferencia": "Montado em 11/10/2026 pela nomenclatura da empresa e pela leitura visual dos carimbos de 122, 123, 129 e 130; a confirmar pelo dono.",
+  "pranchas": [
+    {
+      "arquivo": "DUO-ARQ-LO-101-PLA-1PV-R01.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "planta",
+      "revisao": "R01",
+      "folha": "101",
+      "assunto_carimbo": "PLANTA 1º_PAVIMENTO",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-102-PLA-2PV-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "planta",
+      "revisao": "R00",
+      "folha": "102",
+      "assunto_carimbo": "PLANTA 2º_PAVIMENTO",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-103-PLA-3PV-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "planta",
+      "revisao": "R00",
+      "folha": "103",
+      "assunto_carimbo": "PLANTA 3º_PAVIMENTO",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-104-PLA-4PV-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "planta",
+      "revisao": "R00",
+      "folha": "104",
+      "assunto_carimbo": "PLANTA 4º_PAVIMENTO",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-105-PLA-PUC-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "planta",
+      "revisao": "R00",
+      "folha": "105",
+      "assunto_carimbo": "PLANTA PUC",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-106-PLA-PCA-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "planta",
+      "revisao": "R00",
+      "folha": "106",
+      "assunto_carimbo": "PLANTA PUC_TORRE_A",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-107-PLA-TPA-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "planta",
+      "revisao": "R00",
+      "folha": "107",
+      "assunto_carimbo": "PLANTAS PAVIMENTO_TIPO_TORRE_A",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-108-PLA-DPA-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "planta",
+      "revisao": "R00",
+      "folha": "108",
+      "assunto_carimbo": "PLANTAS DUPLEX_TORRE_A",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-109-PLA-COA-R01.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "planta",
+      "revisao": "R01",
+      "folha": "109",
+      "assunto_carimbo": "PLANTAS ÁTICO_E_COBERTURA_TORRE_A",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-110-PLA-PCB-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "planta",
+      "revisao": "R00",
+      "folha": "110",
+      "assunto_carimbo": "PLANTA PUC_TORRE_B",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-111-PLA-TPB-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "planta",
+      "revisao": "R00",
+      "folha": "111",
+      "assunto_carimbo": "PLANTAS PAVIMENTO_TIPO_TORRE_B",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-112-PLA-DPB-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "planta",
+      "revisao": "R00",
+      "folha": "112",
+      "assunto_carimbo": "PLANTAS DUPLEX_TORRE_B",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-113-PLA-COB-R01.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "planta",
+      "revisao": "R01",
+      "folha": "113",
+      "assunto_carimbo": "PLANTAS ÁTICO_E_COBERTURA_TORRE_B",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-114-CTE-CTA-R01.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "corte",
+      "revisao": "R01",
+      "folha": "114",
+      "assunto_carimbo": "CORTE A-A",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-115-CTE-CTB-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "corte",
+      "revisao": "R00",
+      "folha": "115",
+      "assunto_carimbo": "CORTES B-B_E_C-C",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-116-ELV-GER-R01.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "elevacao",
+      "revisao": "R01",
+      "folha": "116",
+      "assunto_carimbo": "ELEVAÇÃO 1",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-117-ELV-GER-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "elevacao",
+      "revisao": "R00",
+      "folha": "117",
+      "assunto_carimbo": "ELEVAÇÕES 2_4_5_6",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-118-ELV-GER-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "elevacao",
+      "revisao": "R00",
+      "folha": "118",
+      "assunto_carimbo": "ELEVAÇÃO 3",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-119-DET-ALU-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "detalhe",
+      "revisao": "R00",
+      "folha": "119",
+      "assunto_carimbo": "DETALHAMENTO ALUMÍNIO_PARTE_I",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-120-DET-ALU-R01.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "detalhe",
+      "revisao": "R01",
+      "folha": "120",
+      "assunto_carimbo": "DETALHAMENTO ALUMÍNIO_PARTE_II",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-121-DET-MAD-R01.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "detalhe",
+      "revisao": "R01",
+      "folha": "121",
+      "assunto_carimbo": "DETALHAMENTO MADEIRA",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-122-DET-FER-R01.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "detalhe",
+      "revisao": "R01",
+      "folha": "122",
+      "assunto_carimbo": "DETALHAMENTO MADEIRA",
+      "carimbo_desatualizado": true
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-123-DET-GRD-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "detalhe",
+      "revisao": "R00",
+      "folha": "123",
+      "assunto_carimbo": "DETALHAMENTO GRADIL",
+      "carimbo_desatualizado": true
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-124-DET-AMO-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "detalhe",
+      "revisao": "R00",
+      "folha": "124",
+      "assunto_carimbo": "DETALHAMENTO ÁREAS_MOLHADAS_TIPO",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-125-DET-AMO-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "detalhe",
+      "revisao": "R00",
+      "folha": "125",
+      "assunto_carimbo": "DETALHAMENTO ÁREAS_MOLHADAS_DUPLEX",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-126-DET-AMO-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "detalhe",
+      "revisao": "R00",
+      "folha": "126",
+      "assunto_carimbo": "DETALHAMENTO ÁREAS_MOLHADAS_PUC",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-127-DET-AMO-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "detalhe",
+      "revisao": "R00",
+      "folha": "127",
+      "assunto_carimbo": "DETALHAMENTO ÁREAS_MOLHADAS_PUC_OPÇÃO",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-128-DET-AMO-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "detalhe",
+      "revisao": "R00",
+      "folha": "128",
+      "assunto_carimbo": "DETALHAMENTO ÁREAS_MOLHADAS_PUC_E_INFERIORES",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-129-DET-AMO-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "detalhe",
+      "revisao": "R00",
+      "folha": "129",
+      "assunto_carimbo": "DETALHAMENTO PEDRAS_E_BANCADAS",
+      "carimbo_desatualizado": false
+    },
+    {
+      "arquivo": "DUO-ARQ-LO-130-DET-EDP-R00.pdf",
+      "disciplina": "arquitetura",
+      "tipo": "detalhe",
+      "revisao": "R00",
+      "folha": "130",
+      "assunto_carimbo": "DETALHAMENTO ESCADA_DUPLEX",
+      "carimbo_desatualizado": true
+    }
+  ]
+}
