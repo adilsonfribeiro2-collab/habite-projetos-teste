@@ -13,7 +13,7 @@ Repositório **privado** com projetos reais usados só para testar a leitura de 
 
 | Pasta | Empreendimento | O que tem |
 |---|---|---|
-| `empreendimento-1/` | Duo London (Jerônimo da Veiga), autorizado em 11/10/2026 | Arquitetura: 30 pranchas em PDF (`arquitetura/pdf`); DWG a enviar (`arquitetura/dwg`) |
+| `empreendimento-1/` | Duo London (Jerônimo da Veiga), autorizado em 11/10/2026 | Arquitetura: 30 pranchas em PDF (`arquitetura/pdf`) e os 30 DWG correspondentes (`arquitetura/dwg`, AutoCAD 2013) |
 
 Cada empreendimento terá também o gabarito conferido pelo dono (o que a leitura deve encontrar) e, para comparação, as plantas simplificadas feitas pela ProConsult (material de terceiros, só consulta interna).
 
